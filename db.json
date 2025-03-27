@@ -149,7 +149,8 @@
       "name": "Nyeri",
       "fun_fact": "Home to Mount Kenya National Park.",
       "main_resource": "Tea and Coffee Farming",
-      "tourist_attraction": "Mount Kenya"
+      "tourist_attraction": "Mount Kenya",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nyeri%2C_Kenya_-_51936152848.jpg/960px-Nyeri%2C_Kenya_-_51936152848.jpg?20230906115321"
     },
     {
       "id": "020",
