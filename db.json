@@ -5,7 +5,8 @@
       "name": "Mombasa",
       "fun_fact": "Home to Fort Jesus, a UNESCO World Heritage Site.",
       "main_resource": "Tourism and Port Services",
-      "tourist_attraction": "Fort Jesus"
+      "tourist_attraction": "Fort Jesus",
+      "imgUrl": "https://images.pexels.com/photos/27965328/pexels-photo-27965328/free-photo-of-a-group-of-people-playing-volleyball-on-a-beach.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       "id": "002",
