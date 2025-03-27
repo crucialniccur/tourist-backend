@@ -85,7 +85,8 @@
       "name": "Isiolo",
       "fun_fact": "A gateway to Northern Kenya's tourism.",
       "main_resource": "Livestock and Tourism",
-      "tourist_attraction": "Buffalo Springs National Reserve"
+      "tourist_attraction": "Buffalo Springs National Reserve",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Isiolo_-_Main_Street.jpg/960px-Isiolo_-_Main_Street.jpg?20190712180531"
     },
     {
       "id": "012",
