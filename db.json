@@ -197,7 +197,8 @@
       "name": "Samburu",
       "fun_fact": "Famous for its unique wildlife species.",
       "main_resource": "Tourism and Livestock",
-      "tourist_attraction": "Samburu National Reserve"
+      "tourist_attraction": "Samburu National Reserve",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Samburu_Man%2C_Kenya.jpg/960px-Samburu_Man%2C_Kenya.jpg?20230406143045"
     },
     {
       "id": "026",
