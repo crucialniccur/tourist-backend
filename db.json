@@ -125,7 +125,8 @@
       "name": "Machakos",
       "fun_fact": "One of Kenya’s fastest-growing towns.",
       "main_resource": "Manufacturing and Agriculture",
-      "tourist_attraction": "Masinga Dam"
+      "tourist_attraction": "Masinga Dam",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Section_of_Machakos_People%27s_Park.jpg/800px-Section_of_Machakos_People%27s_Park.jpg?20140818010042"
     },
     {
       "id": "017",
