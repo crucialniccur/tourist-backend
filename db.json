@@ -61,7 +61,8 @@
       "name": "Wajir",
       "fun_fact": "Home to unique desert landscapes.",
       "main_resource": "Livestock and Trade",
-      "tourist_attraction": "Wajir Museum"
+      "tourist_attraction": "Wajir Museum",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WAJIR_COUNTY_HQs.jpg/960px-WAJIR_COUNTY_HQs.jpg?20200304040003"
     },
     {
       "id": "009",
