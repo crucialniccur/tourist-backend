@@ -237,7 +237,8 @@
       "name": "Baringo",
       "fun_fact": "Known for hot springs and lakes.",
       "main_resource": "Livestock and Tourism",
-      "tourist_attraction": "Lake Baringo"
+      "tourist_attraction": "Lake Baringo",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sunset_over_Lake_Baringo%2C_Kenya_-_by_Ferdinand_Reus.jpg/960px-Sunset_over_Lake_Baringo%2C_Kenya_-_by_Ferdinand_Reus.jpg?20090727170717"
     }
   ]
 }
