@@ -37,7 +37,8 @@
       "name": "Lamu",
       "fun_fact": "Hosts the ancient Swahili town of Lamu.",
       "main_resource": "Tourism and Fishing",
-      "tourist_attraction": "Lamu Old Town"
+      "tourist_attraction": "Lamu Old Town",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lamu._Donkeys_in_Lamu.jpg/800px-Lamu._Donkeys_in_Lamu.jpg?20190215175920"
     },
     {
       "id": "006",
