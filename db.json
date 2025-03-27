@@ -53,7 +53,8 @@
       "name": "Garissa",
       "fun_fact": "Major town in Kenya’s northeastern region.",
       "main_resource": "Livestock and Trade",
-      "tourist_attraction": "Boni Forest"
+      "tourist_attraction": "Boni Forest",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Garissa%2C_Kenya_-_panoramio_%2816%29.jpg/800px-Garissa%2C_Kenya_-_panoramio_%2816%29.jpg?20170630123416"
     },
     {
       "id": "008",
