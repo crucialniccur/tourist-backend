@@ -93,7 +93,8 @@
       "name": "Meru",
       "fun_fact": "Famous for miraa (khat) farming.",
       "main_resource": "Agriculture (Miraa and Tea)",
-      "tourist_attraction": "Meru National Park"
+      "tourist_attraction": "Meru National Park",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mount_Meru%2C_2012.jpg/800px-Mount_Meru%2C_2012.jpg?20150619193846"
     },
     {
       "id": "013",
