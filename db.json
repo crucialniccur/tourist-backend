@@ -133,7 +133,8 @@
       "name": "Makueni",
       "fun_fact": "Famous for mango farming.",
       "main_resource": "Agriculture",
-      "tourist_attraction": "Kibwezi Forest"
+      "tourist_attraction": "Kibwezi Forest",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chyulu_Hills%2C_Kenya_%28Unsplash%29.jpg/960px-Chyulu_Hills%2C_Kenya_%28Unsplash%29.jpg?20191114130205"
     },
     {
       "id": "018",
