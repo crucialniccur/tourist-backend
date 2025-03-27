@@ -181,7 +181,8 @@
       "name": "Turkana",
       "fun_fact": "Kenya’s largest county by land area.",
       "main_resource": "Oil and Pastoralism",
-      "tourist_attraction": "Lake Turkana"
+      "tourist_attraction": "Lake Turkana",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lake_Turkana_in_Kenya_01.jpg/800px-Lake_Turkana_in_Kenya_01.jpg?20220204112726"
     },
     {
       "id": "024",
