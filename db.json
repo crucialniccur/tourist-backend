@@ -141,7 +141,8 @@
       "name": "Nyandarua",
       "fun_fact": "Hosts the scenic Aberdare Ranges.",
       "main_resource": "Agriculture and Dairy Farming",
-      "tourist_attraction": "Aberdare National Park"
+      "tourist_attraction": "Aberdare National Park",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nyandarua_farm_fields.jpg/960px-Nyandarua_farm_fields.jpg?20220311042735"
     },
     {
       "id": "019",
