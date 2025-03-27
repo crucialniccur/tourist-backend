@@ -157,7 +157,8 @@
       "name": "Kirinyaga",
       "fun_fact": "Has fertile agricultural lands.",
       "main_resource": "Rice and Coffee Farming",
-      "tourist_attraction": "Mt. Kenya Forest"
+      "tourist_attraction": "Mt. Kenya Forest",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Governor_of_Kirinyaga_County_Anne_Waiguru.jpg?20241018045305"
     },
     {
       "id": "021",
