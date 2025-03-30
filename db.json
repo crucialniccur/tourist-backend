@@ -7,7 +7,7 @@
       "main_resource": "Tourism and Port Services",
       "tourist_attraction": "Fort Jesus",
       "imgUrl": "https://images.pexels.com/photos/27965328/pexels-photo-27965328/free-photo-of-a-group-of-people-playing-volleyball-on-a-beach.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "002",
@@ -16,7 +16,7 @@
       "main_resource": "Tourism and Mining",
       "tourist_attraction": "Diani Beach",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diani_beach_kwale_county.jpg/960px-Diani_beach_kwale_county.jpg?20220724113337",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "003",
@@ -25,7 +25,7 @@
       "main_resource": "Tourism and Agriculture",
       "tourist_attraction": "Gede Ruins",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A_village_in_a_palm_forest._Kilifi_District_-_panoramio.jpg/960px-A_village_in_a_palm_forest._Kilifi_District_-_panoramio.jpg?20161110201910",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "004",
@@ -34,7 +34,7 @@
       "main_resource": "Livestock and Farming",
       "tourist_attraction": "Tana River Primate Reserve",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tana_River_County%2C_Kenya_-_panoramio_%286%29.jpg/960px-Tana_River_County%2C_Kenya_-_panoramio_%286%29.jpg?20170630124137",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "005",
@@ -43,7 +43,7 @@
       "main_resource": "Tourism and Fishing",
       "tourist_attraction": "Lamu Old Town",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lamu._Donkeys_in_Lamu.jpg/800px-Lamu._Donkeys_in_Lamu.jpg?20190215175920",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "006",
@@ -52,7 +52,7 @@
       "main_resource": "Mining and Agriculture",
       "tourist_attraction": "Tsavo National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephant_Elegance-_Meet_one_of_the_Gentle_Giants_of_Tsavo_East_National_Park..jpg/800px-Elephant_Elegance-_Meet_one_of_the_Gentle_Giants_of_Tsavo_East_National_Park..jpg?20231127191508",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "007",
@@ -61,7 +61,7 @@
       "main_resource": "Livestock and Trade",
       "tourist_attraction": "Boni Forest",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Garissa%2C_Kenya_-_panoramio_%2816%29.jpg/800px-Garissa%2C_Kenya_-_panoramio_%2816%29.jpg?20170630123416",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "008",
@@ -70,7 +70,7 @@
       "main_resource": "Livestock and Trade",
       "tourist_attraction": "Wajir Museum",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WAJIR_COUNTY_HQs.jpg/960px-WAJIR_COUNTY_HQs.jpg?20200304040003",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "009",
@@ -79,7 +79,7 @@
       "main_resource": "Livestock and Trade",
       "tourist_attraction": "Malka Mari National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mandera.jpg/960px-Mandera.jpg?20230120003130",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "010",
@@ -88,7 +88,7 @@
       "main_resource": "Livestock and Tourism",
       "tourist_attraction": "Marsabit National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marsabit-Moyale_Rd.jpg/800px-Marsabit-Moyale_Rd.jpg?20130815082224",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "011",
@@ -97,7 +97,7 @@
       "main_resource": "Livestock and Tourism",
       "tourist_attraction": "Buffalo Springs National Reserve",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Isiolo_-_Main_Street.jpg/960px-Isiolo_-_Main_Street.jpg?20190712180531",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "012",
@@ -106,7 +106,7 @@
       "main_resource": "Agriculture (Miraa and Tea)",
       "tourist_attraction": "Meru National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mount_Meru%2C_2012.jpg/800px-Mount_Meru%2C_2012.jpg?20150619193846",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "013",
@@ -115,7 +115,7 @@
       "main_resource": "Agriculture and Tourism",
       "tourist_attraction": "Chuka Forest",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Small_Scale_Coffee_Farming_in_Kenya.jpg/500px-Small_Scale_Coffee_Farming_in_Kenya.jpg?20230430182510",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "014",
@@ -124,7 +124,7 @@
       "main_resource": "Beekeeping and Agriculture",
       "tourist_attraction": "Kirinyaga Hills",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kanyuambora%2C_Embu%2C_Kenya%2C_an_aerial_view._Photo_by_BMJ_Muriithi.jpg/960px-Kanyuambora%2C_Embu%2C_Kenya%2C_an_aerial_view._Photo_by_BMJ_Muriithi.jpg?20171107220413",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "015",
@@ -133,7 +133,7 @@
       "main_resource": "Mining and Agriculture",
       "tourist_attraction": "Nzambani Rock",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kenya_8%2C_Livelihoods_16_%2810167357694%29.jpg/800px-Kenya_8%2C_Livelihoods_16_%2810167357694%29.jpg?20140529024604",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "016",
@@ -142,7 +142,7 @@
       "main_resource": "Manufacturing and Agriculture",
       "tourist_attraction": "Masinga Dam",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Section_of_Machakos_People%27s_Park.jpg/800px-Section_of_Machakos_People%27s_Park.jpg?20140818010042",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "017",
@@ -151,7 +151,7 @@
       "main_resource": "Agriculture",
       "tourist_attraction": "Kibwezi Forest",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chyulu_Hills%2C_Kenya_%28Unsplash%29.jpg/960px-Chyulu_Hills%2C_Kenya_%28Unsplash%29.jpg?20191114130205",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "018",
@@ -160,7 +160,7 @@
       "main_resource": "Agriculture and Dairy Farming",
       "tourist_attraction": "Aberdare National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nyandarua_farm_fields.jpg/960px-Nyandarua_farm_fields.jpg?20220311042735",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "019",
@@ -169,7 +169,7 @@
       "main_resource": "Tea and Coffee Farming",
       "tourist_attraction": "Mount Kenya",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nyeri%2C_Kenya_-_51936152848.jpg/960px-Nyeri%2C_Kenya_-_51936152848.jpg?20230906115321",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "020",
@@ -178,7 +178,7 @@
       "main_resource": "Rice and Coffee Farming",
       "tourist_attraction": "Mt. Kenya Forest",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Governor_of_Kirinyaga_County_Anne_Waiguru.jpg?20241018045305",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "021",
@@ -187,7 +187,7 @@
       "main_resource": "Tea and Coffee Farming",
       "tourist_attraction": "Fourteen Falls",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/A_man_milks_a_cow_in_the_agricultural_rich_Murang%27a_county_Kenya.jpg/960px-A_man_milks_a_cow_in_the_agricultural_rich_Murang%27a_county_Kenya.jpg?20171127151235",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "022",
@@ -196,7 +196,7 @@
       "main_resource": "Tea and Coffee Farming",
       "tourist_attraction": "Gatamaiyu Forest",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bathi_Dam_in_Kijabe%2C_Kiambu_Kenya.jpg/960px-Bathi_Dam_in_Kijabe%2C_Kiambu_Kenya.jpg?20200713151435",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "023",
@@ -205,7 +205,7 @@
       "main_resource": "Oil and Pastoralism",
       "tourist_attraction": "Lake Turkana",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lake_Turkana_in_Kenya_01.jpg/800px-Lake_Turkana_in_Kenya_01.jpg?20220204112726",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "024",
@@ -214,7 +214,7 @@
       "main_resource": "Livestock and Mining",
       "tourist_attraction": "Kapenguria Museum",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/West_pokot_the_land_of_hidden_treasures_and_extream_beauty.jpg/600px-West_pokot_the_land_of_hidden_treasures_and_extream_beauty.jpg?20200708065100",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "025",
@@ -223,7 +223,7 @@
       "main_resource": "Tourism and Livestock",
       "tourist_attraction": "Samburu National Reserve",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Samburu_Man%2C_Kenya.jpg/960px-Samburu_Man%2C_Kenya.jpg?20230406143045",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "026",
@@ -232,7 +232,7 @@
       "main_resource": "Maize Farming",
       "tourist_attraction": "Mt. Elgon National Park",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Waters_of_River_Nzoia.jpg/800px-Waters_of_River_Nzoia.jpg?20200728212305",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "027",
@@ -241,7 +241,7 @@
       "main_resource": "Agriculture",
       "tourist_attraction": "Iten Viewpoint",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Turbo-_Uasin_Gishu_county_-Kenya.jpg/800px-Turbo-_Uasin_Gishu_county_-Kenya.jpg?20210319052807",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "028",
@@ -250,7 +250,7 @@
       "main_resource": "Agriculture and Tourism",
       "tourist_attraction": "Kerio Valley",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arror_view%2C_elgeyo-marakwet%2C_Kenya.jpg/960px-Arror_view%2C_elgeyo-marakwet%2C_Kenya.jpg?20200701192520",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "029",
@@ -259,7 +259,7 @@
       "main_resource": "Tea and Dairy Farming",
       "tourist_attraction": "Nandi Hills",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tindiret_Tea_Plantation_in_Kenya_Nandi_County.jpg/960px-Tindiret_Tea_Plantation_in_Kenya_Nandi_County.jpg?20200725080700",
-      "comments": ""
+      "comments": []
     },
     {
       "id": "030",
@@ -268,7 +268,7 @@
       "main_resource": "Livestock and Tourism",
       "tourist_attraction": "Lake Baringo",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sunset_over_Lake_Baringo%2C_Kenya_-_by_Ferdinand_Reus.jpg/960px-Sunset_over_Lake_Baringo%2C_Kenya_-_by_Ferdinand_Reus.jpg?20090727170717",
-      "comments": ""
+      "comments": []
     }
   ]
 }
